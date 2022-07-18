@@ -1,6 +1,5 @@
 # Sentry 10 helm charts
 
-
 Sentry is a cross-platform crash reporting and aggregation platform.
 
 This repository aims to support Sentry 10 and move out from the deprecated Helm charts official repo.

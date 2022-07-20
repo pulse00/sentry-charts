@@ -127,7 +127,7 @@ data:
     from sentry.conf.server import *  # NOQA
     from distutils.util import strtobool
 
-    
+
     {{- if .Values.sourcemaps.enabled }}
     CACHES = {
         "default": {
